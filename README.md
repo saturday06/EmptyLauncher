@@ -4,7 +4,9 @@ Does android launcher crash randomly and break instrumentation test? Let's use E
 EmptyLauncher is launcher app consisting of only one empty activity. That's extremely stable and
 lightweight!
 
-You can install it from [Google Play](http://google.com) or [apk download](http://github.com)
+You can install it from 
+[Google Play](http://google.com) or 
+[apk download](https://github.com/saturday06/EmptyLauncher/releases/download/v1.0/EmptyLauncher.apk)
 
 ## Setup
 
