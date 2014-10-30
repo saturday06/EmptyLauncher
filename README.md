@@ -6,7 +6,7 @@ lightweight!
 
 You can install it from 
 [Google Play](http://google.com) or 
-[apk download](https://github.com/saturday06/EmptyLauncher/releases/download/v1.0/EmptyLauncher.apk)
+[Download APK](https://github.com/saturday06/EmptyLauncher/releases/download/v1.0/EmptyLauncher.apk)
 
 ## Setup
 
