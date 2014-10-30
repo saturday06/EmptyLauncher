@@ -5,7 +5,7 @@ EmptyLauncher is launcher app consisting of only one empty activity. That's extr
 lightweight!
 
 You can install it from 
-[Google Play](http://google.com) or 
+[Google Play](https://play.google.com/store/apps/details?id=jp.leafytree.emptylauncher) or 
 [Download APK](https://github.com/saturday06/EmptyLauncher/releases/download/v1.0/EmptyLauncher.apk)
 
 ## Setup
