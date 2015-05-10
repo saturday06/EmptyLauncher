@@ -14,7 +14,6 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "jp.leafytree.emptylauncher"
         minSdkVersion 1
         targetSdkVersion 22
         versionCode 1
