@@ -6,7 +6,7 @@ lightweight!
 
 You can install it from 
 [Google Play](https://play.google.com/store/apps/details?id=jp.leafytree.emptylauncher) or 
-[Download APK](https://github.com/saturday06/EmptyLauncher/releases/download/v1.0/EmptyLauncher.apk)
+[Download APK](https://github.com/saturday06/EmptyLauncher/releases/download/v1.0.2/EmptyLauncher.apk)
 
 ## Setup
 
